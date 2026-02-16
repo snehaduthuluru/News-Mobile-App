@@ -30,7 +30,7 @@ A modern, high-fidelity mobile UI/UX prototype designed in Figma. This app provi
 ## 🎨 Design Specifications
 
 * **Tools Used:** Figma (Auto Layout, Components, Variants).
-* **Typography:** * *Headings:* Modern Serif (Editorial style)
+* **Typography:** *Headings:* Modern Serif (Editorial style)
   * *Body:* Clean Sans-Serif (Readability)
 * **Color Palette:** * Primary: `#000000` (Black)
   * Background: `#FFFFFF` (White)
